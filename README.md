@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Basic Information
 
-You can use the [editor on GitHub](https://github.com/jacobs269/jacobs269.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I graduated from Ohio State University with a B.S degree in [data analytics](https://data-analytics.osu.edu) in the spring of 2017. I am currently working towards an M.S. [statistics](https://stat.osu.edu) which I expect to recieve in the spring of 2019. I am currently applying to PhD programs in Computer Science and Statistics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Interests
 
-### Markdown
+I am broadly interested in methods for data modeling and visualization. A sample of some of my specific interests:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Large scale statistical analysis of massive 21st century datasets to help solve public health problems
 
-```markdown
-Syntax highlighted code block
+* Human-in-the-loop Methods for Data Analysis
+	* Development of methods for interactive bayesian prior elicitation
+		* [I thought this paper was really cool!](https://arxiv.org/pdf/1612.02802.pdf)
+	* Crowdsourcing in Machine Learning
+		* See the publications section below for information about contributions I made to a project in this area
 
-# Header 1
-## Header 2
-### Header 3
+# Publications
 
-- Bulleted
-- List
+* J.Liang, **P. Jacobs**, S.Parthasarathy. "Human-Guided Flood Mapping: From Expert to the Crowd". In *Proceedings of the Web Conference (WWW'18), 2018*
+	* [PDF](/assets/CHUG_FM.pdf)
+	* [Click here to learn more about my specific contributions to this project]({{ site.baseurl }}{% post_url 2018-10-20-HUGFM %})
 
-1. Numbered
-2. List
+* J.Liang, **P. Jacobs**, J. Sun, S. Parthasarathy. "Semi-supervised Embedding in Attributed Networks with Outliers". In *Proceedings of SIAM International Conference on Data Mining (SDM'18), 2018*
+	* [PDF](https://arxiv.org/pdf/1703.08100.pdf)
 
-**Bold** and _Italic_ and `Code` text
+# Research Ideas
 
-[Link](url) and ![Image](src)
-```
+* [Project Idea 1]({{ site.baseurl }}{% post_url 2018-10-20-idea1 %})
+* [Project Idea 2]({{ site.baseurl }}{% post_url 2018-10-21-idea2 %})
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Personal Projects
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacobs269/jacobs269.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Bayesian Analysis of Salmon Data]({{ site.baseurl }}{% post_url 2018-10-20-bayes %})
