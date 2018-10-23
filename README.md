@@ -8,10 +8,9 @@ I am broadly interested in methods for data modeling and visualization. Specific
 
 * Large scale statistical analysis of massive 21st century datasets to help solve public health problems
 * Human-in-the-loop Methods for Data Analysis
+	* Crowdsourcing in Machine Learning
 	* Development of methods for interactive bayesian prior elicitation
 		* [I thought this paper was really cool!](https://arxiv.org/pdf/1612.02802.pdf)
-	* Crowdsourcing in Machine Learning
-		* See the publications section below for information about contributions I made to a project in this area
 
 # Publications
 
