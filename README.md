@@ -15,10 +15,12 @@ I am broadly interested in methods for data modeling and visualization. Specific
 * J.Liang, **P. Jacobs**, J. Sun, S. Parthasarathy. "Semi-supervised Embedding in Attributed Networks with Outliers". In *Proceedings of SIAM International Conference on Data Mining (SDM'18), 2018*
 	* [PDF](https://arxiv.org/pdf/1703.08100.pdf)
 
+<!---
 # Ideas
 
 * [Project Idea 1]({{ site.baseurl }}{% post_url 2018-10-20-idea1 %})
 * [Project Idea 2]({{ site.baseurl }}{% post_url 2018-10-21-idea2 %})
+--->
 
 # Personal Projects
 
