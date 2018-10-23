@@ -10,7 +10,6 @@ I am broadly interested in methods for data modeling and visualization. Specific
 * Human-in-the-loop Methods for Data Analysis
 	* Crowdsourcing in Machine Learning
 	* Development of methods for interactive bayesian prior elicitation
-		* [I thought this paper was really cool!](https://arxiv.org/pdf/1612.02802.pdf)
 
 # Publications
 
