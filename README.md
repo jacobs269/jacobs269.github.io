@@ -4,7 +4,7 @@ I graduated from Ohio State University with a B.S degree in [data analytics](htt
 
 # Interests
 
-I am broadly interested in methods for data modeling and visualization. Specific interests include the large scale statistical analysis of massive 21st century datasets to help solve public health problems and human-in-the-loop Methods for Data Analysis, such as techniques for crowdsourcing in machine learning, and methods for interactive bayesian prior elicitation.
+I am broadly interested in methods for data modeling and visualization. Specific interests include the large scale statistical analysis of massive 21st century datasets to help solve public health problems and human-in-the-loop methods for data analysis, such as techniques for crowdsourcing in machine learning, and methods for interactive bayesian prior elicitation.
 
 # Publications
 
