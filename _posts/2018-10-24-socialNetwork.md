@@ -1,6 +1,6 @@
 ## Inspiration
 
-[This paper](https://dl.acm.org/citation.cfm?id=3018672) by Althoff, Jindal, and Leskovec
+[This paper](https://dl.acm.org/citation.cfm?id=3018672) by [Tim Althoff](http://timalthoff.de), [Pranav Jindal](http://stanford.academia.edu/PranavJindal), and [Jure Leskovec](https://en.wikipedia.org/wiki/Jure_Leskovec)
 
 ## Idea
 
@@ -8,7 +8,7 @@ In this paper, it is shown that on average, initiators of social network friends
  
 1. The offline relationship between the initiator and receiver of the request. For example, is there on average more benefit to the initiator when the initiator and receiver have more or less mutual connections?
 2. The demographic relationship between the initiator and receiver of the request. For example, on average, is there more benefit to the initiator when the initiator and receiver are of the same sex, or of opposite sex? ...
-	*  If we cluster the online social network by collections of demographic traits, is there more or less benefit to the initiator when the initiator or receiver are in the same or different clusters?
+	*  If we cluster the online social network by collections of demographic traits, is there more or less benefit to the initiator when the initiator and receiver are in the same or different clusters?
 
 **One project stemming from these questions is the development of a [statistical] model relating the step count increase for the initiator associated with the creation of the friendship to some of the above factors associated with the relationship between the initiator and the receiver of the friendship request. In a broader context, I think this project extrapolates on the authors interest in how online social networks impact offline behavior. In a narrower context, this research could lead to a smart recommendation system for friendship suggestions.**
 
