@@ -1,6 +1,6 @@
 ## Inspiration
 
-[This paper](https://dl.acm.org/citation.cfm?id=3018672) by [Tim Althoff](http://timalthoff.de), [Pranav Jindal](http://stanford.academia.edu/PranavJindal), and [Jure Leskovec](https://en.wikipedia.org/wiki/Jure_Leskovec)
+[Online Actions with Offline Impact: How Online Social Networks Influence Online and Offline User Behavior](https://dl.acm.org/citation.cfm?id=3018672) by [Tim Althoff](http://timalthoff.de), [Pranav Jindal](http://stanford.academia.edu/PranavJindal), and [Jure Leskovec](https://en.wikipedia.org/wiki/Jure_Leskovec)
 
 ## Idea
 
