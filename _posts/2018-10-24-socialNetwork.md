@@ -14,7 +14,7 @@ In this paper, it is shown that on average, initiators of social network friends
 
 ## Some Next Steps
 
-* Think more about which variables most likely account for individual variation in step count increase associated with friendship creation
+* Think more about which variables most likely account for individual variation in step count change associated with friendship creation
 * Write down a preliminary [statistical] model!
 
 ## Citation
