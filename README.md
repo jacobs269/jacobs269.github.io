@@ -26,3 +26,7 @@ I am broadly interested in methods for data modeling and visualization. Specific
 
 * [NFL Data Web Scraper]({{ site.baseurl }}{% post_url 2018-10-23-football %})
 * [Bayesian Analysis of Salmon Data]({{ site.baseurl }}{% post_url 2018-10-20-bayes %})
+
+# Temporary Tidbits
+
+* [Idea for improving our understanding of how initiation of friendship in an online social network impacts offline real world behavior]({{ site.baseurl }}{% post_url 2018-10-24-socialNetwork %})
