@@ -24,5 +24,5 @@ I am broadly interested in methods for data modeling and visualization. Specific
 
 # Work Samples
 
-* [NFL data Web Scraper]({{ site.baseurl }}{% post_url 2018-10-23-football %})
+* [NFL Data Web Scraper]({{ site.baseurl }}{% post_url 2018-10-23-football %})
 * [Bayesian Analysis of Salmon Data]({{ site.baseurl }}{% post_url 2018-10-20-bayes %})
