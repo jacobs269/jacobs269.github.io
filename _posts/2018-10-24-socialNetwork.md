@@ -4,7 +4,7 @@
 
 ## Idea
 
-In this paper, it is shown that on average, initiators of social network friendships directly benefit (in a casual way) from the friendship created (in the form of an increased step count).  On a case by case basis, one might imagine that the magnitude and direction of the friendship effect on the initiators offline activity depends on a variety of factors including :
+In this paper, it is shown that on average, initiators of social network friendships directly benefit (in a casual way) from the friendship created (in the form of an increased step count).  On a case by case basis, one might imagine that the magnitude and direction of the friendship effect on the initiators offline activity depends on a variety of factors including
  
 1. The offline relationship between the initiator and receiver of the request
 	* Example: Is there on average more benefit to the initiator when the initiator and receiver have more or less mutual connections?
