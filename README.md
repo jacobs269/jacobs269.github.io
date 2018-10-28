@@ -1,6 +1,6 @@
 # Basic Information
 
-I graduated from Ohio State University with a B.S degree in [data analytics](https://data-analytics.osu.edu) in the spring of 2017. I am currently working towards an [M.S. in statistics](https://stat.osu.edu) which I expect to recieve in the spring of 2019. I am currently applying to PhD programs for enrollement in the fall of 2019. I am a [National Science Foundation Graduate Research Fellowship Honorable Mention](https://stat.osu.edu/news/data-analytics-major-peter-jacobs-honored-national-science-foundation) in [Computational and Data Enabled Science and Engineering](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504813).
+I graduated from Ohio State University with a B.S degree in [data analytics](https://data-analytics.osu.edu) in the spring of 2017. I am currently working towards an [M.S. in statistics](https://stat.osu.edu) which I expect to recieve in the spring of 2019. I am applying to PhD programs for enrollement in the fall of 2019. I am a [National Science Foundation Graduate Research Fellowship Honorable Mention](https://stat.osu.edu/news/data-analytics-major-peter-jacobs-honored-national-science-foundation) in [Computational and Data Enabled Science and Engineering](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504813).
 
 # Interests
 
