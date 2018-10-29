@@ -13,7 +13,7 @@ I am broadly interested in methods for data modeling and visualization. Specific
 
 * J.Liang, **P. Jacobs**, J. Sun, S. Parthasarathy. "Semi-supervised Embedding in Attributed Networks with Outliers". In *Proceedings of SIAM International Conference on Data Mining (SDM'18), 2018* [[PDF]](https://arxiv.org/pdf/1703.08100.pdf)
 
-* J.Liang, **P. Jacobs**, and S. Parthasararthy. "Human-Guided Flood Mapping on Satellite Images." *IDEA 16* (2016).
+* J.Liang, **P. Jacobs**, and S. Parthasararthy. "Human-Guided Flood Mapping on Satellite Images." In *IDEA 16* (2016). [[PDF]](http://poloclub.gatech.edu/idea2016/papers/p76-liang.pdf)
 
 <!---
 # Ideas
