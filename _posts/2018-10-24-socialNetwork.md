@@ -10,7 +10,7 @@ In this paper, it is shown that on average, initiators of social network friends
 2. The demographic relationship between the initiator and receiver of the request. For example, on average, is there more benefit to the initiator when the initiator and receiver are of the same sex, or of opposite sex? ...
 	*  If we cluster the online social network by collections of demographic traits, is there more or less benefit to the initiator when the initiator and receiver are in the same or different clusters?
 
-**One project stemming from these questions is the development of a [statistical] model relating the step count increase for the initiator associated with the creation of the friendship to some of the above factors associated with the relationship between the initiator and the receiver of the friendship request. In a broader context, I think this project extrapolates on the authors interest in how online social networks impact offline behavior. In a narrower context, this research could lead to a smart recommendation system for friendship suggestions.**
+**One project stemming from these questions is the development of a [statistical] model relating the step count increase for the initiator associated with the creation of the friendship to some of the above factors associated with the relationship between the initiator and the receiver of the friendship request. In a broader context, I think this project extrapolates on the authors interest in how online social networks impact offline behavior. In a narrower context, this research could lead to a recommendation system for friendship suggestions that intends to positively effect offline physical activity.**
 
 ## Some Next Steps
 
