@@ -4,7 +4,7 @@
 
 # Interests
 
-I am broadly interested in methods for data modeling and visualization. Specific interests include the large scale statistical analysis of massive 21st century datasets and human-in-the-loop data modeling (e.g crowdsourcing in machine learning and methods for interactive bayesian prior elicitation).
+I am broadly interested in methods for data modeling and visualization. Specific interests include the large scale statistical analysis of massive wearable computing data sets, causual inference in observational data sets, and human-in-the-loop data modeling (e.g crowdsourcing in machine learning and methods for interactive bayesian prior elicitation).
 
 # Publications
 
