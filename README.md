@@ -4,7 +4,7 @@
 
 # Interests
 
-I am broadly interested in methods for data modeling and visualization that have applications public health. Specific interests include the large scale statistical analysis of massive wearable computing data sets, causual inference in observational data sets, and human-in-the-loop data modeling (e.g crowdsourcing in machine learning and methods for interactive bayesian prior elicitation).
+I am broadly interested in methods for data modeling and visualization that have applications in public health. Specific interests include the large scale statistical analysis of massive wearable computing data sets, causual inference in observational data sets, and human-in-the-loop data modeling (e.g crowdsourcing in machine learning and methods for interactive bayesian prior elicitation).
 
 # Publications
 
