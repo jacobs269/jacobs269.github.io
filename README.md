@@ -1,10 +1,10 @@
 # Basic Information
 
- I recieved a [National Science Foundation Graduate Research Fellowship Honorable Mention](https://stat.osu.edu/news/data-analytics-major-peter-jacobs-honored-national-science-foundation) in [Computational and Data Enabled Science and Engineering](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504813). I am applying to PhD programs for enrollement in the fall of 2019. I am currently working towards an [M.S. in statistics](https://stat.osu.edu) at Ohio State University which I expect to recieve in the spring of 2019. I graduated from the same university with a B.S degree in [data analytics](https://data-analytics.osu.edu) in the spring of 2017.
+ I will begin a [PhD program in Computer Science](https://www.cs.utah.edu/#) at the University of Utah in the fall of 2019. I just completed an [MS in statistics](https://stat.osu.edu) at Ohio State University in May of 2019. I graduated from the same university with a BS in [data analytics](https://data-analytics.osu.edu) in the spring of 2017. During my time at Ohio State, I conducted research in the [computer science Department](https://cse.osu.edu) in the [Data Mining Laboratory](http://web.cse.ohio-state.edu/dmrl/) on applications of semi-supervised learning for disaster relief. I was advised by [Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/).
 
 # Interests
 
-I am broadly interested in methods for data modeling and visualization that have applications in public health. Specific interests include the analysis of massive wearable computing, social media, and search engine data sets, causal inference in observational data sets, human-in-the-loop data modeling (e.g crowdsourcing in machine learning and methods for interactive bayesian prior elicitation), and image processing.
+I am broadly interested in methods for data modeling and visualization that have applications in public health. Specific interests include the analysis of massive wearable computing, social media, and search engine data sets, causal inference in observational data sets, human-in-the-loop data modeling (e.g crowdsourcing in machine learning and methods for interactive bayesian prior elicitation), and image processing. I am also interested in diving deeper into interpretability and uncertainty quantification in machine learning.
 
 # Publications
 
