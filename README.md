@@ -1,6 +1,6 @@
 # Basic Information
 
- I will begin a [PhD program in Computer Science](https://www.cs.utah.edu/#) at the University of Utah in the fall of 2019. I just completed an [MS in Statistics](https://stat.osu.edu) at Ohio State University in May of 2019. I graduated from the same university with a [BS in Data Analytics](https://data-analytics.osu.edu) 2 years prior in the spring of 2017. During my time at Ohio State, I conducted research in the [Data Mining Laboratory](http://web.cse.ohio-state.edu/dmrl/) on applications of semi-supervised learning for disaster relief. I was advised by Professor of Computer Science, [Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/).
+I just completed an [MS in Statistics](https://stat.osu.edu) at Ohio State University in May of 2019. I graduated from the same university with a [BS in Data Analytics](https://data-analytics.osu.edu) 2 years prior in the spring of 2017. During my time at Ohio State, I conducted research in the [Data Mining Laboratory](http://web.cse.ohio-state.edu/dmrl/) on applications of semi-supervised learning for disaster relief. I was advised by Professor of Computer Science, [Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/).
 
 # Interests
 
