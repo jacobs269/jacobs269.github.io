@@ -3,8 +3,7 @@
 I just completed an [MS in Statistics](https://stat.osu.edu) at Ohio State University in May of 2019. I graduated from the same university with a [BS in Data Analytics](https://data-analytics.osu.edu) 2 years prior in the spring of 2017. During my time at Ohio State, I conducted research in the [Data Mining Laboratory](http://web.cse.ohio-state.edu/dmrl/) on applications of semi-supervised learning for disaster relief. I was advised by Professor of Computer Science, [Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/).
 
 # Interests
-
-I am broadly interested in methods for data modeling and visualization that have applications in public health. Specific interests include the analysis of massive wearable computing, social media, and search engine data sets, causal inference in observational data sets, human-in-the-loop data modeling (e.g crowdsourcing in machine learning and methods for interactive bayesian prior elicitation), and image processing. I am also interested in diving deeper into interpretability and uncertainty quantification in machine learning.
+I am interesting in Time Series data analysis. By the summer of 2021, I will have a strong applied and theoretical working knowledge in this area. Besides time series, I also study data structures and algorithms, and enjoy problem solving on Leetcode in my spare time.
 
 # Publications
 
