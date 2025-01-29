@@ -1,11 +1,16 @@
 # Basic Information
 
-I just completed an [MS in Statistics](https://stat.osu.edu) at Ohio State University in May of 2019. I graduated from the same university with a [BS in Data Analytics](https://data-analytics.osu.edu) 2 years prior in the spring of 2017. During my time at Ohio State, I conducted research in the [Data Mining Laboratory](http://web.cse.ohio-state.edu/dmrl/) on applications of semi-supervised learning for disaster relief. I was advised by Professor of Computer Science, [Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/).
+In late spring 2025 I will be graduating with a PhD in Computing from the Kahlert School of Computing where I am advised by Professor [Jeff Phillips](https://users.cs.utah.edu/~jeffp/). In the last 4 years I have also been an intern at [Sandia National Laboratories] where I have been advised by [Dr. Lekha Patel](https://www.sandia.gov/ccr/staff/lekha-patel/). Prior to my PhD I completed an [MS in Statistics](https://stat.osu.edu) at Ohio State University in May of 2019. While there I conducted research in the Data Mining Research Laboratory on applications of semi-supervised learning for disaster relief with Professor [Srinivasan Parthasarathy](https://scholar.google.com/citations?user=2mjUsP8AAAAJ&hl=en).
 
 # Interests
-I am interesting in Time Series data analysis. By the summer of 2021, I will have a strong applied and theoretical working knowledge in this area. Besides time series, I also study data structures and algorithms, and enjoy problem solving on Leetcode in my spare time.
+My research focus is broadly Statistical Machine Learning with specific interest in the development and rigorous analysis of non-parametric statistical methods for challenges present in High Dimensional and/or Time-Dependent data analyses. 
 
 # Publications
+
+**P. Jacobs**, L. Patel, A. Bhattacharya, D. Pati. "Minimax Posterior Contraction Rates for Unconstrained Distribution Estimation on $[0, 1]^d$ under Wasserstein Distance." In *Transactions on Machine Learning Research, 2025*[[PDF]](https://openreview.net/forum?id=UrSgGSTM2J)
+
+* **P. Jacobs**, A. Bhattacharya, D. Pati, L. Patel, J. Phillips. "Estimation of Large Zipfian Distributions with Sort and Snap". To Appear in *Artificial Intelligence and Statistics, 2025*[[PDF]](https://github.com/jacobs269/zipfianPaper/blob/main/paper.pdf).
+
 
 * J.Liang, **P. Jacobs**, S.Parthasarathy. "Human-Guided Flood Mapping: From Expert to the Crowd". In *Proceedings of the Web Conference (WWW'18), 2018* [[PDF]](/assets/CHUG_FM.pdf)
 <!--* [Click here to learn more about my specific contributions to this project]({{ site.baseurl }}{% post_url 2018-10-20-HUGFM %})-->
