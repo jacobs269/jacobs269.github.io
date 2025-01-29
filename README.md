@@ -7,7 +7,7 @@ My research focus is broadly Statistical Machine Learning with specific interest
 
 # Publications
 
-**P. Jacobs**, L. Patel, A. Bhattacharya, D. Pati. "Minimax Posterior Contraction Rates for Unconstrained Distribution Estimation on $[0, 1]^d$ under Wasserstein Distance." In *Transactions on Machine Learning Research, 2025*[[PDF]](https://openreview.net/forum?id=UrSgGSTM2J)
+* **P. Jacobs**, L. Patel, A. Bhattacharya, D. Pati. "Minimax Posterior Contraction Rates for Unconstrained Distribution Estimation on $[0, 1]^d$ under Wasserstein Distance." In *Transactions on Machine Learning Research, 2025*[[PDF]](https://openreview.net/forum?id=UrSgGSTM2J)
 
 * **P. Jacobs**, A. Bhattacharya, D. Pati, L. Patel, J. Phillips. "Estimation of Large Zipfian Distributions with Sort and Snap". To Appear in *Artificial Intelligence and Statistics, 2025*[[PDF]](https://github.com/jacobs269/zipfianPaper/blob/main/paper.pdf).
 
