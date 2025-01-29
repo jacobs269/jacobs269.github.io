@@ -26,7 +26,7 @@ In late spring 2025 I will be graduating with a PhD in Computing from the Kahler
 
 # Presentation Samples
 
-* ![Data Science Day 2025 Poster](https://github.com/jacobs269/jacobs269.github.io/blob/master/assets/dataScienceDayPoster2025-3.pdf)
+* [Data Science Day 2025 Poster](https://github.com/jacobs269/jacobs269.github.io/blob/master/assets/dataScienceDayPoster2025-3.pdf)
 <!---
 * [NFL Data Web Scraper]({{ site.baseurl }}{% post_url 2018-10-23-football %})
 * [Bayesian Analysis of Salmon Data]({{ site.baseurl }}{% post_url 2018-10-20-bayes %})
