@@ -4,7 +4,7 @@ In late spring 2025 I will be graduating with a PhD in Computing from the Kahler
 
 # Publications
 
-* **P. Jacobs**, A. Bhattacharya, D. Pati, L. Patel, J. Phillips. "Estimation of Large Zipfian Distributions with Sort and Snap". To Appear in *Artificial Intelligence and Statistics (AIStats'25), 2025*[[PDF]](https://github.com/jacobs269/zipfianPaper/blob/main/paper.pdf).
+* **P. Jacobs**, A. Bhattacharya, D. Pati, L. Patel, J. Phillips. "Estimation of Large Zipfian Distributions with Sort and Snap". To Appear in *Artificial Intelligence and Statistics (AIStats'25), 2025*[[PDF]](https://github.com/jacobs269/zipfianPaper/blob/main/paper.pdf)
 
 * **P. Jacobs**, L. Patel, A. Bhattacharya, D. Pati. "Minimax Posterior Contraction Rates for Unconstrained Distribution Estimation on $[0, 1]^d$ under Wasserstein Distance." In *Transactions on Machine Learning Research, 2025*[[PDF]](https://openreview.net/pdf?id=UrSgGSTM2J)
 
@@ -15,7 +15,7 @@ In late spring 2025 I will be graduating with a PhD in Computing from the Kahler
 
 * J.Liang, **P. Jacobs**, J. Sun, S. Parthasarathy. "Semi-supervised Embedding in Attributed Networks with Outliers". In *Proceedings of SIAM International Conference on Data Mining (SDM'18), 2018* [[PDF]](https://arxiv.org/pdf/1703.08100.pdf)
 
-* J.Liang, **P. Jacobs**, and S. Parthasararthy. "Human-Guided Flood Mapping on Satellite Images." In *IDEA 16* (2016). [[PDF]](http://poloclub.gatech.edu/idea2016/papers/p76-liang.pdf)
+* J.Liang, **P. Jacobs**, and S. Parthasararthy. "Human-Guided Flood Mapping on Satellite Images." In *IDEA 16* (2016) [[PDF]](http://poloclub.gatech.edu/idea2016/papers/p76-liang.pdf)
 
 <!---
 # Ideas
