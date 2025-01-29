@@ -31,4 +31,4 @@ In late spring 2025 I will be graduating with a PhD in Computing from the Kahler
 <!---
 * [NFL Data Web Scraper]({{ site.baseurl }}{% post_url 2018-10-23-football %})
 * [Bayesian Analysis of Salmon Data]({{ site.baseurl }}{% post_url 2018-10-20-bayes %})
---->
+---> 
