@@ -4,11 +4,11 @@ In late spring 2025 I will be graduating with a PhD in Computing from the Kahler
 
 # Publications
 
-* **P. Jacobs**, A. Bhattacharya, D. Pati, L. Patel, J. Phillips. "Estimation of Large Zipfian Distributions with Sort and Snap". To Appear in *Artificial Intelligence and Statistics (AIStats'25), 2025*[[PDF]](https://github.com/jacobs269/zipfianPaper/blob/main/paper.pdf)
+* **P. Jacobs**, A. Bhattacharya, D. Pati, L. Patel, J. Phillips. "Estimation of Large Zipfian Distributions with Sort and Snap". To Appear in *Artificial Intelligence and Statistics (AIStats'25), 2025* [[PDF]](https://github.com/jacobs269/zipfianPaper/blob/main/paper.pdf)
 
-* **P. Jacobs**, L. Patel, A. Bhattacharya, D. Pati. "Minimax Posterior Contraction Rates for Unconstrained Distribution Estimation on $[0, 1]^d$ under Wasserstein Distance." In *Transactions on Machine Learning Research, 2025*[[PDF]](https://openreview.net/pdf?id=UrSgGSTM2J)
+* **P. Jacobs**, L. Patel, A. Bhattacharya, D. Pati. "Minimax Posterior Contraction Rates for Unconstrained Distribution Estimation on $[0, 1]^d$ under Wasserstein Distance." In *Transactions on Machine Learning Research, 2025* [[PDF]](https://openreview.net/pdf?id=UrSgGSTM2J)
 
-* BC. Boniece, L. Horvath, **P. Jacobs**. "Change Point Detection in High Dimensional Data with U-Statistics. In *TEST, 2024*[[PDF]](https://arxiv.org/pdf/2207.08933)
+* BC. Boniece, L. Horvath, **P. Jacobs**. "Change Point Detection in High Dimensional Data with U-Statistics. In *TEST, 2024* [[PDF]](https://arxiv.org/pdf/2207.08933)
 
 * J.Liang, **P. Jacobs**, S.Parthasarathy. "Human-Guided Flood Mapping: From Expert to the Crowd". In *Proceedings of the Web Conference (WWW'18), 2018* [[PDF]](/assets/CHUG_FM.pdf)
 <!--* [Click here to learn more about my specific contributions to this project]({{ site.baseurl }}{% post_url 2018-10-20-HUGFM %})-->
